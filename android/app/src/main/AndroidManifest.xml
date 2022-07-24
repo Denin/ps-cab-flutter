@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.shortcutssoftware.ps_cloudappointmentbook_flutter">
    <application
-        android:label="ps_cloudappointmentbook_flutter"
+        android:label="Shortcuts CAB"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
